@@ -18,6 +18,7 @@ gem 'turbolinks',              '2.3.0'
 gem 'jbuilder',                '2.2.3'
 gem 'sdoc',                    '0.4.0', group: :doc
 gem 'pg'
+gem 'puma',           '2.11.1'
 
 group :development, :test do
   gem 'byebug'
