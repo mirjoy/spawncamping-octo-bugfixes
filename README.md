@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Hartls Rails
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Followed part of the tutorial over one of our breaks to learn more about implementing mailers in Rails
